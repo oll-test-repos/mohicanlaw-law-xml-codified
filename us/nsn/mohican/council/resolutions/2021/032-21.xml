@@ -42,7 +42,7 @@
     <text>_______________________	________________________</text>
     <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
   </procedural-data>
-  <codify:replace path="ADM.01.08">
+  <codify:replace path="ADM.01.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ADM.01.08">
     <section>
       <num>ADM.01.08</num>
       <heading>Quorum, Location And Participation For Council Meetings</heading>
