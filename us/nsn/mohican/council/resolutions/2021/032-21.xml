@@ -42,7 +42,7 @@
     <text>_______________________	________________________</text>
     <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
   </procedural-data>
-  <codify:replace path="ADM.01.08">
+  <codify:replace path="ADM.01.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ADM.01.08">
     <section>
       <num>ADM.01.08</num>
       <heading>Quorum, Location And Participation For Council Meetings</heading>
@@ -76,5 +76,5 @@
       </para>
     </section>
   </codify:replace>
-  <codify:annotation path="ADM.01" type="Legislative History" history="false" dest="container">9. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 032-21">Resolution No.032-021</cite>, adopted May 18, 2021. Approved by BIA May 26, 2021.</codify:annotation>
+  <codify:annotation path="ADM.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ADM.01.01">9. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 032-21">Resolution No.032-021</cite>, adopted May 18, 2021. Approved by BIA May 26, 2021.</codify:annotation>
 </document>
