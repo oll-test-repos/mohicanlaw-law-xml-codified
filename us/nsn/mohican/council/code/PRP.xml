@@ -2743,10 +2743,9 @@
     </annotations>
   </container>
   <container>
-    <num>PRP.03</num>
     <prefix>Chapter</prefix>
-    <heading/>
-    <reason>Recodified</reason>
+    <num>PRP.03</num>
+    <heading>[Recodified]</heading>
     <text>Recodified as <cite path="ADM.03">ADM.03</cite>.</text>
     <annotation type="Prior Codifications">Formerly codified as Chapter 44-A , §44-A.1</annotation>
     <annotation type="Prior Codifications">Formerly codified as Chapter 44-A , §44-A.2</annotation>

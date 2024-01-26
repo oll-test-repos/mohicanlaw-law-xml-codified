@@ -16,11 +16,11 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="817485952579de1d4fd62de75c53596e5bbeee5c"/>
+        <repository name="mohicanlaw/law-xml" commit="8b702ada2477baaaacaec85b730d5e5de76a9c5d"/>
       </repositories>
-      <platform version="2.6.3" reproducible="true"/>
-      <build-date>2022-11-01</build-date>
-      <codified-date>2022-02-16</codified-date>
+      <platform version="2.13.1" reproducible="true"/>
+      <build-date>2024-01-26</build-date>
+      <codified-date>2024-01-02</codified-date>
       <publication>publication/2022-11-01</publication>
     </build>
   </meta>
@@ -31,6 +31,7 @@
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
   <collection name="us/nsn/mohican/council/resolutions">
     <heading>Tribal Council Ordinance Resolutions.</heading>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2020/index.xml"/>

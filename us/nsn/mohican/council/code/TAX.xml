@@ -730,10 +730,9 @@
     <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
   </container>
   <container>
-    <num>TAX.02</num>
     <prefix>Chapter</prefix>
-    <heading/>
-    <reason>Recodified</reason>
+    <num>TAX.02</num>
+    <heading>[Recodified]</heading>
     <text>Content recodified as part of <cite path="TAX.01">TAX.01</cite>.</text>
     <annotations>
       <annotation type="Prior Codifications">§TAX.02 was formerly codified as Chapter 57-A</annotation>
