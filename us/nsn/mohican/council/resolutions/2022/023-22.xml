@@ -45,7 +45,7 @@
     <text>_______________________	   ________________________</text>
     <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
   </procedural-data>
-  <codify:find-replace path="TCT.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.[07].01">
+  <codify:find-replace path="TCT.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.01">
     <find>TCT.06</find>
     <replace>TCT.[07]</replace>
   </codify:find-replace>
@@ -469,9 +469,9 @@
     </container>
   </codify:insert>
   <codify:annotation path="TCT.06" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.06">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Resolution No. 023-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</codify:annotation>
-  <codify:annotation path="TCT.[07].01" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.[07].01">Formerly codified as §TCT.06.01</codify:annotation>
-  <codify:annotation path="TCT.[07].02" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.[07].02">Formerly codified as §TCT.06.02</codify:annotation>
-  <codify:annotation path="TCT.[07].03" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.[07].03">Formerly codified as §TCT.06.03</codify:annotation>
-  <codify:annotation path="TCT.[07].04" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.[07].04">Formerly codified as §TCT.06.04</codify:annotation>
-  <codify:annotation path="TCT.[07].05" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.[07].05">Formerly codified as §TCT.06.05</codify:annotation>
+  <codify:annotation path="TCT.[07].01" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.01">Formerly codified as §TCT.06.01</codify:annotation>
+  <codify:annotation path="TCT.[07].02" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.02">Formerly codified as §TCT.06.02</codify:annotation>
+  <codify:annotation path="TCT.[07].03" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.03">Formerly codified as §TCT.06.03</codify:annotation>
+  <codify:annotation path="TCT.[07].04" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.04">Formerly codified as §TCT.06.04</codify:annotation>
+  <codify:annotation path="TCT.[07].05" type="Prior Codifications" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.05">Formerly codified as §TCT.06.05</codify:annotation>
 </document>
