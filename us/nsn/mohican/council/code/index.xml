@@ -9,8 +9,8 @@
         <volume start="PRP"/>
       </volumes>
     </print>
-    <recency through="2021-01-28">
-      <doc id="Stockbridge-Munsee Tribal Council Res. No. 031-20" type="resolution"/>
+    <recency through="2021-04-06">
+      <doc id="Stockbridge-Munsee Tribal Council Res. No. 026-21" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./GOV.xml"/>
