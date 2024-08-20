@@ -41,10 +41,20 @@
     </recital>
   </recitals>
   <procedural-data>
-    <text>CERTIFICATION</text>
+    <text class="center">CERTIFICATION</text>
     <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 3rd day of August, 2021, that the foregoing resolution was duly adopted at such meeting by a vote of 4 for, 2 against, and 0 abstaining.</text>
-    <text>_______________________	   ________________________</text>
-    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-3">__________________________</td>
+        </tr>
+        <tr>
+          <td>Shannon Holsey, President</td>
+          <td class="text-indent-3">Jody Hartwig, Secretary</td>
+        </tr>
+      </table>
+    </text>
   </procedural-data>
   <codify:replace path="ENV.01.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01">
     <section>
