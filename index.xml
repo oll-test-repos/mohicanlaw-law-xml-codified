@@ -20,7 +20,7 @@
       </repositories>
       <platform version="2.15.11" reproducible="true"/>
       <build-date>2025-02-20</build-date>
-      <codified-date>2024-08-06</codified-date>
+      <codified-date>2024-09-03</codified-date>
       <publication>publication/2025-02-20</publication>
     </build>
   </meta>
@@ -80,6 +80,7 @@
   </collection>
   <collection name="us/nsn/mohican/council/bylaws">
     <heading>Committee By-Laws.</heading>
+    <xi:include href="./us/nsn/mohican/cultural-affairs/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
   <collection name="us/nsn/mohican/council/meetings">
