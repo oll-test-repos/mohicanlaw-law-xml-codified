@@ -3529,6 +3529,7 @@
     <heading>Healing to Wellness Court Ordinance</heading>
     <annotations>
       <annotation path="" type="Legislative History" history="false" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Resolution No. 023-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</annotation>
+      <annotation path="" type="Legislative History" history="false" app="2024-01-02" eff="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">Resolution No. 009-24</cite>, adopted January 2, 2024</annotation>
     </annotations>
     <section>
       <num>TCT.06.01</num>
@@ -3564,6 +3565,7 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -3616,6 +3618,7 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -3716,6 +3719,7 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -3788,6 +3792,7 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -3840,6 +3845,7 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -3871,15 +3877,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Regular status hearings will be held before the Healing to Wellness Court to discuss a Participant's progress or lack of progress in the program.</text>
-        <para>
-          <num>(1)</num>
-          <text>Status hearings are typically open to the public unless issues related to a minor child are discussed. If issues related to a minor child are discussed, then that portion of the hearing shall be a closed hearing.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Healing to Wellness Court may take such judicial actions as necessary to implement the Healing to Wellness Court program, which can include issuing orders, subpoenas, and fines.</text>
-        </para>
+        <text>Regular status hearings will be held before the Healing to Wellness Court to discuss a Participant's progress or lack of progress in the program.  The Healing to Wellness Court may take such judicial actions as necessary to implement the Healing to Wellness Court program, which can include issuing orders, subpoenas, and fines.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -3908,6 +3906,8 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3936,6 +3936,7 @@
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -3943,6 +3944,18 @@
       <heading>Records And Communications</heading>
       <para>
         <num>(a)</num>
+        <text>Due to the sensitive nature of topics that may be discussed during hearings, Healing to Wellness Court hearings are closed to the general public in order to facilitate open and honest discussion between a participant and the Judge as they complete their journey along the healing path.</text>
+        <para>
+          <num>(1)</num>
+          <text>In general, a Participant may authorize family members and/or individual support system members to be present at their hearings.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If any issues related to a minor child are discussed during the hearing, then the Judge will have persons present to support the Participant leave the courtroom.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
         <text>The Healing to Wellness Court shall not be a court of record for criminal offenses, meaning any information obtained, used or disclosed by a member of the Team while the Participant is under the jurisdiction of the Healing to Wellness Court shall not be used as evidence against the Participant in any criminal proceeding in the Tribal Court or a court in any other jurisdiction.</text>
         <para>
           <num>(1)</num>
@@ -3958,24 +3971,27 @@
         </para>
       </para>
       <para>
-        <num>(b)</num>
-        <text>Healing to Wellness Court records are confidential and shall be handled and maintained securely.</text>
-      </para>
-      <para>
         <num>(c)</num>
-        <text>Records shall not be disclosed to any person or entity without prior written informed consent from the Participant except as authorized by applicable law.</text>
+        <text>Healing to Wellness Court records are confidential and shall be handled and maintained securely. The record of court proceedings will be maintained separately from the coordinator's participant file.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>The confidentiality limitations under <cite path="|TCT.06.08">this section</cite> are not intended to limit or prevent the Healing to Wellness Court from scheduling and holding joint appearances with the Authorizing Jurisdiction when appropriate, such as at a Participant's successful completion of the program.</text>
+        <text>Records shall not be disclosed to any person or entity other than the Healing to Wellness Team without prior written informed consent from the Participant or except as authorized by applicable law.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The confidentiality limitations under <cite path="|TCT.06.08">this section</cite> are not intended to limit or prevent the Healing to Wellness Court from conducting normal court operations including issuing orders and providing notices of hearings or from scheduling and holding joint appearances with the Authorizing Jurisdiction when appropriate, such as at a Participant's successful completion of the program.</text>
       </para>
       <annotations>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
+        <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History"/>
       </annotations>
     </section>
     <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
     <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History" display="false"/>
+    <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
