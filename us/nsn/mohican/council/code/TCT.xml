@@ -3979,62 +3979,75 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>TCT.[07]</num>
+    <num>TCT.07</num>
     <heading>Change Of Name</heading>
     <section>
-      <num>TCT.[07].01</num>
+      <num>TCT.07.01</num>
       <heading>Authority</heading>
       <text>The Stockbridge-Munsee Tribal Court shall have authority to change the name of any person upon petition.  Any order issued by the Court for change of name shall be kept as a permanent record and copies shall be filed with the Stockbridge-Munsee Band of Mohican Indians Enrollment Office and the Bureau of Vital Statistics of the state of Wisconsin.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.1</annotation>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation path="" type="Prior Codifications" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Formerly codified as §TCT.06.01</annotation>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History"/>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
-      <num>TCT.[07].02</num>
+      <num>TCT.07.02</num>
       <heading>Petition.</heading>
       <text>Any person may petition the court to have his or her name changed.  A parent or guardian of a minor child may petition on behalf of the child to have the child's name changed.  Both natural parents of the child must be given an opportunity to object to the change of name.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.2</annotation>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation path="" type="Prior Codifications" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Formerly codified as §TCT.06.02</annotation>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History"/>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
-      <num>TCT.[07].03</num>
+      <num>TCT.07.03</num>
       <heading>Objections.</heading>
       <text>If no objections are entered on the record by any interested party and if other conditions of <cite path="60.3">this chapter</cite> are fulfilled the court must grant the petition for change of name.  If any interested person enters an objection it is the court's duty to weigh the value of the objection.  The court shall grant the petition for a change of name unless the objection is of such a nature that the court deems the change of name to not be in the best interest of the petitioner and the Stockbridge-Munsee Band of Mohicans.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.3</annotation>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation path="" type="Prior Codifications" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Formerly codified as §TCT.06.03</annotation>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History"/>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
-      <num>TCT.[07].04</num>
+      <num>TCT.07.04</num>
       <heading>Publication.</heading>
       <text>The petitioner for a change of name must cause a notice of his or her intention to change his or her name to be published in the Mohican News for one issue and in the Shawano Leader for one issue.  The notice must state the petitioner's present name and the intended name and must state the date and time of the court hearing where the name change will be considered, and that any person who objects will have an opportunity to raise the objection at that time.  Notice in the <u>Mohican News</u> and <u>Shawano Leader</u> shall not be less than 14 days and not greater than 90 days prior to the scheduled court hearing date, unless the Tribal Court finds good cause to waive this requirement</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.4</annotation>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation path="" type="Prior Codifications" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Formerly codified as §TCT.06.04</annotation>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History"/>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History" display="false"/>
       </annotations>
     </section>
     <section>
-      <num>TCT.[07].05</num>
+      <num>TCT.07.05</num>
       <heading>Fees.</heading>
       <text>The filing fee for a petition for a change of name shall be ten dollars ($10).</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 60, §60.5</annotation>
         <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
         <annotation path="" type="Prior Codifications" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22">Formerly codified as §TCT.06.05</annotation>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History"/>
+        <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History" display="false"/>
       </annotations>
     </section>
     <annotations>
       <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 107-97">Resolution No. 107-97</cite>, adopted January 21, 1997.</annotation>
       <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 02-99">Resolution No. 02-99</cite>, adopted January 12, 1999, approved by BIA February 26, 1999.</annotation>
+      <annotation path="" type="Legislative History" history="false" app="2022-02-16" eff="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-22">Resolution No. 026-22</cite>, adopted February 16, 2022.</annotation>
     </annotations>
     <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 023-22" eff="2022-01-18" path="" type="History"/>
+    <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History"/>
+    <annotation app="2022-02-16" doc="Stockbridge-Munsee Tribal Council Res. No. 026-22" eff="2022-02-16" path="" type="History" display="false"/>
   </container>
 </container>
