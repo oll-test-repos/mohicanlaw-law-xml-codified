@@ -53,7 +53,7 @@
       </tr>
     </table>
   </procedural-data>
-  <codify:replace path="ENV.02.10">
+  <codify:replace path="ENV.02.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.10">
     <section>
       <num>ENV.02.10</num>
       <heading>Forestry Activities By Waters</heading>
@@ -83,5 +83,5 @@
       </para>
     </section>
   </codify:replace>
-  <codify:annotation path="ENV.02" type="Legislative History" history="false" dest="container">18. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 016-26">Resolution No. 016-26</cite>, adopted January 6, 2026, approved by BIA February 4, 2026.</codify:annotation>
+  <codify:annotation path="ENV.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.02.01|annos">18. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 016-26">Resolution No. 016-26</cite>, adopted January 6, 2026, approved by BIA February 4, 2026.</codify:annotation>
 </document>
